@@ -50,3 +50,6 @@ To pass other arguments to Riff (and Ruff), add the `args` key, e.g.
 ## Limitations
 * When using Ruff's `--fix` feature, Ruff will fix everything it is [configured](https://beta.ruff.rs/docs/configuration/) to, regardless of the modified lines. Riff cannot control this behavior.
 * Riff cannot _currently_ run Ruff with a `--output-format` configuration. (see [here](https://github.com/dorschw/riff/issues/9))
+
+## Alternatives
+* [GENWAY-AI/snaplint](https://github.com/GENWAY-AI/snaplint)
