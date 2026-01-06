@@ -38,7 +38,7 @@ dependencies = [
     "gitpython == 3.1.43",
     "loguru == 0.7.3",
     "packaging ==24.2",
-    "typer == 0.15.1",
+    "typer ==0.21.1",
     "unidiff == 0.7.5",
     ]
 [project.scripts]
