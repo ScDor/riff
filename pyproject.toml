@@ -51,7 +51,7 @@ dev = [
     "pytest == 8.3.4",
     "ipykernel == 6.29.5",
     "toml == 0.10.2",
-    "types-unidiff == 0.7.0.20240505",
+    "types-unidiff ==0.7.0.20260727",
     "types-toml == 0.10.8.20240310",
     "pytest-mock == 3.14.0",
     ]

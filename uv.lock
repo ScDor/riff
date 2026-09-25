@@ -735,7 +735,7 @@ requires-dist = [
     { name = "toml", marker = "extra == 'dev'", specifier = "==0.10.2" },
     { name = "typer", specifier = ">=0.24" },
     { name = "types-toml", marker = "extra == 'dev'", specifier = "==0.10.8.20240310" },
-    { name = "types-unidiff", marker = "extra == 'dev'", specifier = "==0.7.0.20240505" },
+    { name = "types-unidiff", marker = "extra == 'dev'", specifier = "==0.7.0.20260727" },
     { name = "unidiff", specifier = "==0.7.5" },
 ]
 provides-extras = ["dev"]
@@ -907,11 +907,11 @@ wheels = [
 
 [[package]]
 name = "types-unidiff"
-version = "0.7.0.20240505"
+version = "0.7.0.20260727"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/eb/d1/4b37a70258d01b40c0cca6f8e4df602d42e507846483defb90ef38b7e41e/types-unidiff-0.7.0.20240505.tar.gz", hash = "sha256:cf15201c7af233f8380f1a289d169e1f740a67369ff60ab7bd0a131402b33194", size = 3348, upload-time = "2024-05-05T02:21:10.193Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/38/cf/068d576b6341aa20e3e212f4db8c06f52bebf86a2a15379678bd58241df0/types_unidiff-0.7.0.20260727.tar.gz", hash = "sha256:a0211facb7fe4a25d809bd2e24824bb93fc27f25ded9541bbd71d533b5e00f8c", size = 8251, upload-time = "2026-07-27T05:36:29.226Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7b/7b/6696a3f4cce6c9deadf7018cf5c21fa5c2b2a5f92e74ae10147eda80572d/types_unidiff-0.7.0.20240505-py3-none-any.whl", hash = "sha256:f01ac7bf7fe4094b3c97c8f08125278ea71455c18d984a980569aef2ab6a768b", size = 4459, upload-time = "2024-05-05T02:21:08.597Z" },
+    { url = "https://files.pythonhosted.org/packages/3e/65/705a75b399c8b79cf8ea53c562fb882b58f20020d772992cea678aa69ce4/types_unidiff-0.7.0.20260727-py3-none-any.whl", hash = "sha256:20e14049a3bd02109085a97dd3e0f2348ecc0cf137c097c96a42c9850671c032", size = 9327, upload-time = "2026-07-27T05:36:28.452Z" },
 ]
 
 [[package]]
